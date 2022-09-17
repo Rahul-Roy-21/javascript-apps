@@ -1,0 +1,19 @@
+What is Javascript?
+-> High-level interpreted language
+-> Conforms to ECMAScript spec.
+-> Multi-paradigm (OOP/functional programming)
+-> Runs on client-side browser as well as server-side machine (Node.Js) , used for user interactions at runtime
+
+
+Why Javascript?
+-> Only Browser-based language
+-> Build interactive UI interfaces with ReactJS
+-> Build fast server-side fullstack application
+-> Used in Mobile development via. React-native, NativeScript etc..
+
+
+Js working____
+1. It is a single thread synchronous line-by-line executing language with some asynchronous capabilities.. for web apis
+
+2. A single call stack (Manages Execution Context) and memory heap is provided.. a Global EC is at the bottom of the stack.. with other sequential functions on top of it..
+
